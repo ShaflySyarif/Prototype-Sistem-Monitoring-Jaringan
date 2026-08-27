@@ -336,21 +336,6 @@ Pada prototype, server monitoring melakukan pengecekan terhadap IP Address peran
 
 ---
 
-## 📁 Struktur Project
-
-Contoh struktur project:
-
-```text
-network-monitoring/
-│
-├── app.py
-├── index.html
-├── README.md
-│
-└── data/
-    └── monitoring_logs.json
-```
-
 ### `app.py`
 
 Berfungsi sebagai backend utama sistem.
@@ -431,13 +416,13 @@ Prototype ini menggunakan:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/network-monitoring.git
+git clone https://github.com/USERNAME/Prototype-Sistem-Monitoring-Jaringan.git
 ```
 
 Masuk ke folder:
 
 ```bash
-cd network-monitoring
+cd Prototype-Sistem-Monitoring-Jaringan
 ```
 
 ### 2. Pastikan Python Telah Terinstall
